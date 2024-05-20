@@ -4,6 +4,6 @@
 2. `npm install`  
 3. start server with `npm run server`
 4. start app with `npm run start`
-5. to run test you can `npm run test`
+5. to run test you can `npm run test` then press `a`
 
 Hope you enjoy my work :)
