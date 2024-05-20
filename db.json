@@ -1,0 +1,14 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "currency": "USD",
+      "balance": 200
+    },
+    {
+      "id": "2",
+      "currency": "EUR",
+      "balance": 200
+    }
+  ]
+}
